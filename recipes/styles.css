@@ -1,0 +1,33 @@
+body{
+    background-image: url(spaghetti_background.jpg);
+    background-size: cover;
+}
+
+h1 {
+    background-color: red;
+    color: yellow;
+    font-size: 120px;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+h3 {
+    text-align: center;
+}
+
+#ingredients {
+    text-align: center;
+    background-color: white;
+    margin-left: 800px;
+    margin-right: 800px;
+}
+
+.directions {
+    background-color: white;
+}
